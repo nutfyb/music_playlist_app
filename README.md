@@ -3,9 +3,11 @@
 A Flutter application for managing and playing music playlists with Spotify integration.
 
 ## UI Showcase
-![Screenshot 2024-11-04 105256](https://github.com/user-attachments/assets/3fda48d0-9e51-4bc6-86ae-266573d5c95c)
-![Screenshot 2024-11-04 105238](https://github.com/user-attachments/assets/1401dc7b-0203-4298-904a-66db9832e134)
-![Screenshot 2024-11-04 105216](https://github.com/user-attachments/assets/9b1ae23d-3ff6-42af-a4ec-0b132bf2a990)
+<div style="display: flex; justify-content: space-between;">
+  <img src="https://github.com/user-attachments/assets/9b1ae23d-3ff6-42af-a4ec-0b132bf2a990" width="250" alt="Home Screen">
+  <img src="https://github.com/user-attachments/assets/1401dc7b-0203-4298-904a-66db9832e134" width="250" alt="Playlist View">
+  <img src="https://github.com/user-attachments/assets/3fda48d0-9e51-4bc6-86ae-266573d5c95c" width="250" alt="Player Screen">
+</div>
 
 
 - Spotify integration for accessing music library
