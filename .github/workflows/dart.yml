@@ -16,7 +16,7 @@ jobs:
       # ✅ Setup Flutter SDK
       - uses: subosito/flutter-action@v2
         with:
-          flutter-version: '3.13.0' # เปลี่ยนเป็นเวอร์ชันที่คุณต้องการ
+          flutter-version: '3.22.1'
 
       - name: Install dependencies
         run: flutter pub get
